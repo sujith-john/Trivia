@@ -1,0 +1,7 @@
+div#test {
+    border:black 1px solid;
+    padding: 10px 40px 40px 40px;
+}
+#result {
+    display: none;
+}
